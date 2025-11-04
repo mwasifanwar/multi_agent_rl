@@ -21,6 +21,9 @@
   <li>Offering comprehensive evaluation and visualization tools</li>
 </ul>
 
+<img width="797" height="513" alt="image" src="https://github.com/user-attachments/assets/f0dadcc0-b6b5-401b-9f0c-b83b22962373" />
+
+
 <h2>System Architecture</h2>
 
 <p>The framework follows a modular architecture that separates environment simulation, agent policies, learning algorithms, and evaluation utilities. The core system workflow operates as follows:</p>
@@ -32,6 +35,9 @@ Environment Observation → Agent Policy Networks → Action Selection → Envir
        ↓
 Algorithm Update (Policy Gradients, Q-learning, etc.) → Model Improvement
 </code></pre>
+
+<img width="1187" height="535" alt="image" src="https://github.com/user-attachments/assets/fd192f56-f5fd-4f0a-ac08-9c08fc0ffbe1" />
+
 
 <p>The architecture supports both decentralized execution (where agents make decisions based on local observations) and centralized training (where additional global information may be used during learning).</p>
 
@@ -75,6 +81,9 @@ Algorithm Update (Policy Gradients, Q-learning, etc.) → Model Improvement
   <li><strong>Visualization Tools:</strong> Learning curves, agent performance, action distributions</li>
   <li><strong>Modular Design:</strong> Easy extension with new algorithms and environments</li>
 </ul>
+
+<img width="736" height="429" alt="image" src="https://github.com/user-attachments/assets/be00d62b-60d8-47b5-807e-f23a1036bed5" />
+
 
 <h2>Installation</h2>
 
@@ -249,8 +258,39 @@ multi_agent_rl/
   <li>Contributors to the numerical computing and visualization ecosystems</li>
 </ul>
 
-<p><strong>Developer:</strong> mwasifanwar</p>
-<p><strong>License:</strong> This project is available for research and educational use under the MIT License.</p>
+<br>
+
+<h2 align="center">✨ Author</h2>
+
+<p align="center">
+  <b>M Wasif Anwar</b><br>
+  <i>AI/ML Engineer | Effixly AI</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:wasifsdk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://mwasif.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+  <a href="https://github.com/mwasifanwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⭐ Don't forget to star this repository if you find it helpful!
+
+</div>
 
 </body>
 </html>
